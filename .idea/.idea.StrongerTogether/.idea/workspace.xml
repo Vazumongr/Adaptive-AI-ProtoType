@@ -15,22 +15,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaf052b1-279b-4916-b1b4-5f098edf2a85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MainGameState.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/BP_EnemyAnchor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_MainGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MainGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/BP_BaseEnemyCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/BP_BaseEnemyCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/NewBlueprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/NewBlueprint.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source" beforeDir="false" afterPath="$PROJECT_DIR$/Source" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/GameModes/STMainGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/GameModes/STMainGameMode.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +108,7 @@
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Private/UObject/Class.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/D3D12RHI/Private/D3D12State.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/GameStateBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Info.h" root0="FORCE_HIGHLIGHTING" />
@@ -129,24 +132,24 @@
       <option value="$PROJECT_DIR$/Source/StrongerTogether/StrongerTogether.Build.cs" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/STTurnManager.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/GameModes/STMainGameMode.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Characters/STEnemyCharacter.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/GameModes/STMainGameMode.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oW97AjOP9YCJwMRSDjTJhfWCcD" />
@@ -422,6 +425,9 @@
       <workItem from="1615897344304" duration="5018000" />
       <workItem from="1615986180986" duration="4678000" />
       <workItem from="1616003207847" duration="3177000" />
+      <workItem from="1616082612223" duration="1827000" />
+      <workItem from="1616107555400" duration="4285000" />
+      <workItem from="1616273676749" duration="5440000" />
     </task>
     <servers />
   </component>
