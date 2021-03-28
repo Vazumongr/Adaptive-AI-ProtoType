@@ -16,21 +16,21 @@
   <component name="ChangeListManager">
     <list default="true" id="eaf052b1-279b-4916-b1b4-5f098edf2a85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/BP_BaseEnemyCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/EnemyCharacters/BP_BaseEnemyCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Bob.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Bob.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Vindryln.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Vindryln.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Xerxi.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_PC_Xerxi.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/GA_Heal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/GA_Heal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/GE_Cooldown.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Abilities/GE_Damage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/GE_Damage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_MainPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MainPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_Anchor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_Anchor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_CharacterHud.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_CharacterHud.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_HealthBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_HealthBar.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +49,52 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/Net/UnrealNetwork.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Launch/Private/Windows/LaunchWindows.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/UnrealEd/Classes/Factories/ReimportFbxSkeletalMeshFactory.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Foliage/Private/InstancedFoliage.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Private/WidgetBlueprintGeneratedClass.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/BoxComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/LevelEditor/Private/SSurfaceProperties.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/Lumin/LuminPlatformEditor/Private/MagicLeapSDKSettings.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Private/Async/TaskGraph.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/LevelActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/AllDesktopTargetPlatform/Private/AllDesktopTargetPlatform.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Messaging/Public/IMessageSender.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/CollisionConvexMesh.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Private/Perception/AIPerceptionSystem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Input/STextComboBox.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Classes/AIController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Views/STreeView.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/GameModeBase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/SparseDelegate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/PlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Private/Components/Widget.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/GameStateBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Info.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Public/Components/Widget.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/Apple/MetalShaderFormat/Private/MetalUtils.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/BlueprintGraph/Private/K2Node_Event.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/TimerManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Private/Components/TextBlock.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Slate/Private/Framework/Text/SlateHyperlinkRun.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/Net/UnrealNetwork.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/DetailCustomizations/Private/ActorDetails.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/Physics/GenericPhysicsInterface.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Containers/Union.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Collision/SceneQuery.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/PhysicsEngine/PhysAnim.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/WorldCollision.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/BoxComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Net/Core/Public/Net/Core/PushModel/PushModel.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/World.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Math/TwoVectors.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Collision/WorldCollision.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/UnrealClient.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/LevelEditor/Private/SSurfaceProperties.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/ScriptSerialization.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/Brush.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Kismet/KismetSystemLibrary.h" root0="FORCE_HIGHLIGHTING" />
@@ -72,7 +103,7 @@
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/GameMode.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Private/UObject/UnrealNames.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/KismetCompiler/Private/KismetCompilerMisc.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/Lumin/LuminPlatformEditor/Private/MagicLeapSDKSettings.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/LevelSequence/Private/LevelSequenceActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Landscape/Private/LandscapeGrass.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Private/EnvironmentQuery/EnvQueryTypes.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Containers/IndirectArray.h" root0="FORCE_HIGHLIGHTING" />
@@ -83,50 +114,38 @@
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Particles/Collision/ParticleModuleCollisionGPU.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/OpenGLDrv/Public/OpenGLState.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Math/MovingWindowAverageFast.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Public/Binding/DynamicPropertyPath.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectGlobals.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/StaticMeshActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Containers/StaticArray.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Containers/Array.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Private/Async/TaskGraph.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/MeshDescription/Public/MeshDescription.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/BlueprintGraph/Private/K2Node_Tunnel.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Misc/AssertionMacros.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Materials/MaterialParameterCollection.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/TutorialHyperlinkRun.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Pawn.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Landscape/Public/LandscapeRender.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/LevelActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Pawn.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/UnrealEd/Private/EdGraphNode_Comment.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Public/Blueprint/WidgetBlueprintGeneratedClass.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/EngineTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Materials/MaterialExpressionTextureBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Private/UObject/Obj.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/UnrealType.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/AllDesktopTargetPlatform/Private/AllDesktopTargetPlatform.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/ActorEditor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/Object.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/CollisionConvexMesh.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Classes/AIController.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Views/STreeView.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Public/Components/TextBlock.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Actor.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/GameModeBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/Persona/Private/SPoseEditor.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/PlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/CoreUObject/Private/UObject/Class.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/D3D12RHI/Private/D3D12State.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/Kismet/Private/BlueprintEditorCommands.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/GameStateBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Info.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/UMG/Public/Components/Widget.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Developer/Apple/MetalShaderFormat/Private/MetalUtils.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Editor/BlueprintGraph/Private/K2Node_Event.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Public/TimerManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_4.25/Engine/Source/Runtime/RuntimeAssetCache/Private/RuntimeAssetCacheBuilders.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -147,22 +166,24 @@
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/GameModes/STMainGameMode.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Widgets/STCharacterHUD.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Widgets/STCharacterHUD.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.h" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/GameStates/STMainGameState.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Characters/STPartyCharacter.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STAnchor.cpp" />
-      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" />
       <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STPlayerAnchor.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STPlayerController.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Widgets/STCharacterHUD.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Widgets/STCharacterHUD.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Abilities/STGameplayAbility.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Abilities/STGameplayAbility.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Pawns/STCharacterBase.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.h" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" />
+      <option value="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oW97AjOP9YCJwMRSDjTJhfWCcD" />
@@ -449,6 +470,10 @@
       <workItem from="1616513055361" duration="7903000" />
       <workItem from="1616522290860" duration="2515000" />
       <workItem from="1616605629693" duration="3781000" />
+      <workItem from="1616683580408" duration="11521000" />
+      <workItem from="1616883679688" duration="5335000" />
+      <workItem from="1616928476783" duration="3172000" />
+      <workItem from="1616962891821" duration="8364000" />
     </task>
     <servers />
   </component>
