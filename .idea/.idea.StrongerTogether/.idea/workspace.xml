@@ -16,21 +16,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eaf052b1-279b-4916-b1b4-5f098edf2a85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StrongerTogether/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Bob.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Vindryln.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Xerxi.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/BaseStats/GE_BaseStats_Yindru.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/GA_Heal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/GA_Heal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/GE_Cooldown.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Abilities/GE_Damage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Abilities/GE_Damage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_MainPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MainPlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_Anchor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PartyCharacters/BP_Anchor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_CharacterHud.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_CharacterHud.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WBP_HealthBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WBP_HealthBar.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Controllers/STEnemyController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/StrongerTogether/Managers/STTurnManager.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -474,6 +460,7 @@
       <workItem from="1616883679688" duration="5335000" />
       <workItem from="1616928476783" duration="3172000" />
       <workItem from="1616962891821" duration="8364000" />
+      <workItem from="1617190541992" duration="1876000" />
     </task>
     <servers />
   </component>
